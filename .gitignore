@@ -1,0 +1,42 @@
+# Android
+.gradle/
+**/build/
+local.properties
+kls_database.db
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+*.keystore
+*.jks
+.cxx/
+captures/
+google-services.json
+
+# Go
+server/server
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+go.work
+go.work.sum
+
+# IDEs and editors
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS and env
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
